@@ -1,0 +1,6 @@
+run:
+A continuación ingresa dos numeros 
+Numero: 10
+A continuación ingresa dos numeros 
+Numero: 20
+El máximo comun divisor de a + b es igual a: 10BUILD SUCCESSFUL (total time: 4 seconds)
